@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="/Users/liuwei/Desktop/ChatSecureAndroid/libs/HockeySDK.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/liuwei/Desktop/ChatSecureAndroid/libs/android-support-v4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/liuwei/Desktop/ChatSecureAndroid/libs/asmack-android-7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/liuwei/Desktop/ChatSecureAndroid/libs/commons-codec.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/liuwei/Desktop/ChatSecureAndroid/libs/commons-io-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/liuwei/Desktop/ChatSecureAndroid/libs/gp-bcc-lib.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/liuwei/Desktop/ChatSecureAndroid/libs/guava-11.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/liuwei/Desktop/ChatSecureAndroid/libs/jsoup-1.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/liuwei/Desktop/ChatSecureAndroid/libs/sqlcipher.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/liuwei/Desktop/ChatSecureAndroid/external/AndroidEmojiInput/library/libs/gson-1.6.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

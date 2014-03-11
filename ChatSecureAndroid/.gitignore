@@ -1,0 +1,10 @@
+bin/
+gen/
+local.properties
+proguard.cfg
+assets/gibberbot.properties
+releases
+docs
+doc
+tests/
+.directory
